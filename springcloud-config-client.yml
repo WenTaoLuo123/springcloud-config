@@ -4,7 +4,7 @@ spring:
 
 ---
 spring:
-   profiles: dev    #测试环境
+   profiles: dev    #测试环境k
    application: 
       name: user-config-client
 server:
